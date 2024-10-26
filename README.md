@@ -1,4 +1,4 @@
-# 100ProjectsToLearnPython
+# 100DaysOfCodePython
 💫 Beginner
 - Project 1: Working with Variables in Python to Manage Data
 - Project 2: Understanding Data Types and How to Manipulate Strings
@@ -34,113 +34,115 @@
 - Project 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 - Project 31: Flash Card App Capstone Project
   
-👨‍💻 Intermediate+
-Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
-Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
-Day 34: API Practice - Creating a GUI Quiz App
-Day 35: Keys, Authentication & Environment Variables - Telegram Rain Notifier
-Day 36: Stock Trading News Alert Project
-Day 37: Habit Tracking Project: API Post Requests & Headers
-Day 38: Workout Tracking Using Google Sheets
-Day 39: Capstone Part 1: Flight Deal Finder
-Day 40: Capstone Part 2: Flight Club
-Day 41: Introduction to HTML
-Day 42: Intermediate HTML
-Day 43: Introduction to CSS
-Day 44: Intermediate CSS
-Day 45: Web Scraping with Beautiful Soup
-Day 46: Create a Spotify Playlist Using The Musical Time Machine
-Day 47: Create an Automated Amazon Price Tracker
-Day 48: Selenium Webdriver Browser and Game Playing Bot
-Day 49: Automating Job Applications on LinkedIn
-Day 50: Auto Tinder Swiping Bot
-Day 51: Internet Speed Twitter Complaint Bot
-Day 52: Instagram Follower Bot
-Day 53: Web Scraping Capstone - Data Entry Job Automation
-Day 54: Introduction to Web Development with Flask
-Day 55: HTML & URL Parsing in Flask and the Higher Lower Game
-Day 56: Rendering HTML/Static Files and Using Website Templates
-Day 57: Templating with Jinja in Flask Applications
-Day 58: Web Foundation Boostrap
-🏆 Advanced
-Day 59: Blog Capstone Project Part 2 - Adding Styling
-Day 60: Make POST Requests with Flask and HTML Forms
-Day 61: Building Advanced Forms with Flask-WTForms
-Day 62: Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
-Day 63: Databases and with SQLite and SQLAlchemy
-Day 64: My Top 10 Movies Website
-Day 65: How to Create a Website That People Will Love
-Day 66: Building Your Own API with RESTful Routing
-Day 67: Blog Capstone Project Part 3 - RESTful Routing
-Day 68: Authentication with Flask
-Day 69: Blog Capstone Project Part 4 - Adding Users
-Day 70: Deploying Your Web Application with Heroku
-Day 71: Data Exploration with Pandas: College Major vs. Your Salary
-Day 72: Data Visualisation with Matplotlib: Programming Languages
-Day 73: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
-Day 74: Google Trends Data: Resampling and Visualising Time Series
-Day 75: Beautiful Plotly Charts & Analysing the Android App Store
-Day 76: Computation with NumPy and N-Dimensional Arrays
-Day 77: Linear Regression and Data Visualisation with Seaborn
-Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
-Day 80: Capstone Project - Predict House Prices
-⚔ Professional Portfolio Projects
-Day 81: Text to Morse Code Converter
-Day 82: Portfolio Website
-Day 83: Tic Tac Toe
-Day 84: Image Watermarking Desktop App
-Day 85: Typing Speed Test App
-Day 86: Breakout: The Famous Arcade Game
-Day 87: Cafe and Wifi Website
-Day 88: To Do Agenda App
-Day 89: Disappearing Text Writing App
-Day 90: Convert PDF to Audiobook
-Day 91: Image to Color List
-Day 92: Amazon Canada Web Scraper
-Day 93: Google Dinosaur Game Bot
-Day 94: Space Invaders
-Day 95: Custom API
-Day 96: An Online Shop
-Day 97: Percentage Calculator
-Day 98: Analyzing and Visualizing the Space Race
-Day 99: Analyzing Deaths Involving Police in the United States
-Day 100: Predicting Earnings using Multivariable Regression
+💫 Intermediate+
+- Project 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- Project 33: API Endpoints & API Parameters - ISS Overhead Notifier
+- Project 34: API Practice - Creating a GUI Quiz App
+- Project 35: Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- Project 36: Stock Trading News Alert Project
+- Project 37: Habit Tracking Project: API Post Requests & Headers
+- Project 38: Workout Tracking Using Google Sheets
+- Project 39: Capstone Part 1: Flight Deal Finder
+- Project 40: Capstone Part 2: Flight Club
+- Project 41: Introduction to HTML
+- Project 42: Intermediate HTML
+- Project 43: Introduction to CSS
+- Project 44: Intermediate CSS
+- Project 45: Web Scraping with Beautiful Soup
+- Project 46: Create a Spotify Playlist Using The Musical Time Machine
+- Project 47: Create an Automated Amazon Price Tracker
+- Project 48: Selenium Webdriver Browser and Game Playing Bot
+- Project 49: Automating Job Applications on LinkedIn
+- Project 50: Auto Tinder Swiping Bot
+- Project 51: Internet Speed Twitter Complaint Bot
+- Project 52: Instagram Follower Bot
+- Project 53: Web Scraping Capstone - Data Entry Job Automation
+- Project 54: Introduction to Web Development with Flask
+- Project 55: HTML & URL Parsing in Flask and the Higher Lower Game
+- Project 56: Rendering HTML/Static Files and Using Website Templates
+- Project 57: Templating with Jinja in Flask Applications
+- Project 58: Web Foundation Boostrap
 
-⚙ Tools and Technologies Covered
-Python 3
-PyCharm, Jupyter Notebook, Google Colab
-Python Scripting and Automation
-Python Game Development
-Web Scraping
-Beautiful Soup
-Selenium Web Driver
-Request
-WTForms
-Data Science
-Pandas
-NumPy
-Matplotlib
-Plotly
-Scikit learn
-Seaborn
-Turtle
-Python GUI Desktop App Development
-Tkinter
-Front-End Web Development
-HTML 5
-CSS 3
-Bootstrap 4
-Bash Command Line
-Git, GitHub and Version Control
-Backend Web Development
-Flask
-REST
-APIs
-Databases
-SQL
-SQLite
-PostgreSQL
-Authentication
-Web Design
-Deployment with GitHub Pages, Heroku and GUnicorn
+💫 Advanced
+- Project 59: Blog Capstone Project Part 2 - Adding Styling
+- Project 60: Make POST Requests with Flask and HTML Forms
+- Project 61: Building Advanced Forms with Flask-WTForms
+- Project 62: Flask, WTForms, Bootstrap, and CSV - Coffee & Wifi Project
+- Project 63: Databases and with SQLite and SQLAlchemy
+- Project 64: My Top 10 Movies Website
+- Project 65: How to Create a Website That People Will Love
+- Project 66: Building Your Own API with RESTful Routing
+- Project 67: Blog Capstone Project Part 3 - RESTful Routing
+- Project 68: Authentication with Flask
+- Project 69: Blog Capstone Project Part 4 - Adding Users
+- Project 70: Deploying Your Web Application with Heroku
+- Project 71: Data Exploration with Pandas: College Major vs. Your Salary
+- Project 72: Data Visualisation with Matplotlib: Programming Languages
+- Project 73: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- Project 74: Google Trends Data: Resampling and Visualising Time Series
+- Project 75: Beautiful Plotly Charts & Analysing the Android App Store
+- Project 76: Computation with NumPy and N-Dimensional Arrays
+- Project 77: Linear Regression and Data Visualisation with Seaborn
+- Project 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- Project 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
+- Project 80: Capstone Project - Predict House Prices
+
+💫 Professional Portfolio Projects
+- Project 81: Text to Morse Code Converter
+- Project 82: Portfolio Website
+- Project 83: Tic Tac Toe
+- Project 84: Image Watermarking Desktop App
+- Project 85: Typing Speed Test App
+- Project 86: Breakout: The Famous Arcade Game
+- Project 87: Cafe and Wifi Website
+- Project 88: To Do Agenda App
+- Project 89: Disappearing Text Writing App
+- Project 90: Convert PDF to Audiobook
+- Project 91: Image to Color List
+- Project 92: Amazon Canada Web Scraper
+- Project 93: Google Dinosaur Game Bot
+- Project 94: Space Invaders
+- Project 95: Custom API
+- Project 96: An Online Shop
+- Project 97: Percentage Calculator
+- Project 98: Analyzing and Visualizing the Space Race
+- Project 99: Analyzing Deaths Involving Police in the United States
+- Project 100: Predicting Earnings using Multivariable Regression
+
+## ⚙ Tools and Technologies Covered
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
