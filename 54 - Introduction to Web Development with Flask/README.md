@@ -6,5 +6,3 @@
 - Python Functions as First Class Objects: Passing & Nesting Functions
 - Python Decorator Functions and the `@` Syntax
 Create a Python Decorator
-## Python Decorator
-![day54](https://user-images.githubusercontent.com/98851253/159170521-01748ff5-3052-431c-9ff3-d313f050003b.gif)
