@@ -9,5 +9,3 @@
 - Use Python Decorators to Style HTML Tags
 - Decorators with `*args` and `**kwargs`
 Create a Python Decorator
-## To Do Agenda App
-<img width="955" alt="day88" src="https://user-images.githubusercontent.com/98851253/170607934-975540fc-22c3-44aa-8118-7f42af2ee252.png">
