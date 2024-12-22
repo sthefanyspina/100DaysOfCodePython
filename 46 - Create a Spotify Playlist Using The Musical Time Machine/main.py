@@ -9,7 +9,7 @@ load_dotenv(".env")
 CLIENT_ID = os.getenv("CLIENT_ID")
 CLIENT_SECRET_ID = os.getenv("CLIENT_SECRET_ID")
 
-date = input("Which day do you want to travel to? Type the date in this format: YYYY-MM-DD: ")
+date = input("Which day do you want to travel to? Type the date in this format: YYYY-,,-DD: ")
 
 URL = f"https://www.billboard.com/charts/hot-100/{date}/"
 response = requests.get(URL)
@@ -24,13 +24,13 @@ song_titles = [song.getText().replace("\n", "") for song in all_songs]
 song_titles.insert(0, number_one)
 
 sp = spotipy.Spotify(
-    auth_manager=SpotifyOAuth(
+    auth_manager = SpotifyOAuth(
         client_id=f"{CLIENT_ID}",
         client_secret=f"{CLIENT_SECRET_ID}",
         scope="playlist-modify-private",
         show_dialog=True,
         cache_path="token.txt",
-        redirect_uri="https://example.com/",
+        redirect_uri="https://example.com/"
     )
 )
 
@@ -39,13 +39,13 @@ user_id = sp.current_user()["id"]
 song_uris = []
 year = date.split("-")[0]
 for song in song_titles:
-    result = sp.search(q=f"track:{song} year:{year}", type="track")
+    result = sp.search(q=f"track:{song} year{year}", type="track")
     print(result)
     try:
         uri = result["tracks"]["items"][0]["uri"]
         song_uris.append(uri)
     except IndexError:
-        print(f"{song} doesn't exist in Spotify. Skipped.")
+        print(f"{song} doen't exist in Spotify. Skipped.")
 
 playlist = sp.user_playlist_create(user=user_id, name=f"{date} Billboard 100", public=False)
 sp.playlist_add_items(playlist_id=playlist["id"], items=song_uris)
